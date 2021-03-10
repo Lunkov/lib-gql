@@ -3,6 +3,7 @@ package gql
 import (
   "encoding/json"
   "github.com/graphql-go/graphql"
+  "github.com/graphql-go/graphql/language/ast"
   "github.com/golang/glog"
 )
 
